@@ -1,4 +1,4 @@
-import tkinter as tk
+delete file import tkinter as tk
 import random
 import sys
 import time
