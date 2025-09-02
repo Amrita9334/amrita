@@ -1,3 +1,4 @@
+  delete file 
 import tkinter as tk
 from tkinter import messagebox, Toplevel, Label
 import random
