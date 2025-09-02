@@ -1,4 +1,4 @@
-#                                   # Assignment No:1
+ delete file#                                   # Assignment No:1
 # print("hello amrita")
 # print('hello amrita')
 # print("you're the best")
