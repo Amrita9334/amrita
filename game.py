@@ -1,4 +1,4 @@
-  delete file 
+ file deleted 
 import tkinter as tk
 from tkinter import messagebox, Toplevel, Label
 import random
