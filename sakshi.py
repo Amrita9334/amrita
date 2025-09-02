@@ -1,4 +1,4 @@
-delete file import tkinter as tk
+file deleted import tkinter as tk
 import random
 import sys
 import time
